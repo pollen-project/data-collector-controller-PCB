@@ -49,7 +49,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "BC660_Olimex_module_0_1"
+		(symbol "BC660_Olimex_module_1_1"
 			(rectangle
 				(start -19.05 13.97)
 				(end 19.05 -13.97)
@@ -58,11 +58,9 @@
 					(type default)
 				)
 				(fill
-					(type none)
+					(type background)
 				)
 			)
-		)
-		(symbol "BC660_Olimex_module_1_1"
 			(pin input line
 				(at -21.59 11.43 0)
 				(length 2.54)
@@ -652,7 +650,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "XL6009_DC-DC_0_1"
+		(symbol "XL6009_DC-DC_1_1"
 			(rectangle
 				(start -5.08 3.81)
 				(end 5.08 -3.81)
@@ -661,11 +659,9 @@
 					(type default)
 				)
 				(fill
-					(type none)
+					(type background)
 				)
 			)
-		)
-		(symbol "XL6009_DC-DC_1_1"
 			(pin power_in line
 				(at -7.62 2.54 0)
 				(length 2.54)
