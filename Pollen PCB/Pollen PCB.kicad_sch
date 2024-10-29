@@ -6102,7 +6102,7 @@
 		)
 		(uuid "7b0a6f06-b1c6-48a2-a345-1380d5c71f1a")
 	)
-	(label "RPI_CS"
+	(label "RPI_MISO"
 		(at 48.26 181.61 180)
 		(fields_autoplaced yes)
 		(effects
@@ -6113,7 +6113,7 @@
 		)
 		(uuid "7e73bd68-5563-4e59-bf53-7981eaeef937")
 	)
-	(label "RPI_SCK"
+	(label "RPI_CS"
 		(at 48.26 179.07 180)
 		(fields_autoplaced yes)
 		(effects
@@ -6256,7 +6256,7 @@
 		)
 		(uuid "b590c2a1-1fb0-47aa-b496-03bf347cc07b")
 	)
-	(label "RPI_MISO"
+	(label "RPI_SCK"
 		(at 48.26 176.53 180)
 		(fields_autoplaced yes)
 		(effects
